@@ -1,5 +1,5 @@
 from torchvision import transforms
-from commonFuction import HeightDataset, WeightedMSELoss
+from commonFunction import HeightDataset, WeightedMSELoss
 import optuna
 import torch
 import logging

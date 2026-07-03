@@ -1,7 +1,7 @@
 import torch
 import os
 from torchvision import transforms
-from commonFuction import HeightDataset, create_result_subfolders
+from commonFunction import HeightDataset, create_result_subfolders
 from torch.utils.data import DataLoader
 from RiceSTNet import PredictionModel
 from sklearn.metrics import r2_score, root_mean_squared_error, mean_absolute_error

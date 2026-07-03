@@ -2,7 +2,7 @@ import torch
 from torchvision import transforms
 from torch.utils.data import DataLoader
 from RiceSTNet import PredictionModel
-from commonFuction import HeightDataset, WeightedMSELoss, train_net
+from commonFunction import HeightDataset, WeightedMSELoss, train_net
 import torch.optim as optim
 import torch.nn as nn
 
