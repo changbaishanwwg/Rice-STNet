@@ -1,0 +1,420 @@
+{
+  "2024": {
+    "2": [
+      {
+        "date": "20240615",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240615\\2.tif",
+        "height_cm": 21.14
+      },
+      {
+        "date": "20240711",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240711\\2.tif",
+        "height_cm": 55.2
+      },
+      {
+        "date": "20240726",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240726\\2.tif",
+        "height_cm": 71.52
+      },
+      {
+        "date": "20240808",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240808\\2.tif",
+        "height_cm": 77.02
+      },
+      {
+        "date": "20240826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240826\\2.tif",
+        "height_cm": 74.7
+      },
+      {
+        "date": "20240909",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240909\\2.tif",
+        "height_cm": 76.96
+      }
+    ],
+    "7": [
+      {
+        "date": "20240615",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240615\\7.tif",
+        "height_cm": 21
+      },
+      {
+        "date": "20240711",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240711\\7.tif",
+        "height_cm": 49.4
+      },
+      {
+        "date": "20240726",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240726\\7.tif",
+        "height_cm": 69
+      },
+      {
+        "date": "20240808",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240808\\7.tif",
+        "height_cm": 73.8
+      },
+      {
+        "date": "20240826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240826\\7.tif",
+        "height_cm": 71.3
+      },
+      {
+        "date": "20240909",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240909\\7.tif",
+        "height_cm": 72.48
+      }
+    ],
+    "5": [
+      {
+        "date": "20240615",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240615\\5.tif",
+        "height_cm": 20.82
+      },
+      {
+        "date": "20240711",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240711\\5.tif",
+        "height_cm": 50.8
+      },
+      {
+        "date": "20240726",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240726\\5.tif",
+        "height_cm": 74.18
+      },
+      {
+        "date": "20240808",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240808\\5.tif",
+        "height_cm": 77.26
+      },
+      {
+        "date": "20240826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240826\\5.tif",
+        "height_cm": 79.72
+      },
+      {
+        "date": "20240909",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240909\\5.tif",
+        "height_cm": 78.36
+      }
+    ],
+    "13": [
+      {
+        "date": "20240615",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240615\\13.tif",
+        "height_cm": 18.48
+      },
+      {
+        "date": "20240711",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240711\\13.tif",
+        "height_cm": 53
+      },
+      {
+        "date": "20240726",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240726\\13.tif",
+        "height_cm": 71.78
+      },
+      {
+        "date": "20240808",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240808\\13.tif",
+        "height_cm": 83.28
+      },
+      {
+        "date": "20240826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240826\\13.tif",
+        "height_cm": 82.26
+      },
+      {
+        "date": "20240909",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240909\\13.tif",
+        "height_cm": 81.16
+      }
+    ],
+    "12": [
+      {
+        "date": "20240615",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240615\\12.tif",
+        "height_cm": 20.62
+      },
+      {
+        "date": "20240711",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240711\\12.tif",
+        "height_cm": 49.6
+      },
+      {
+        "date": "20240726",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240726\\12.tif",
+        "height_cm": 69.68
+      },
+      {
+        "date": "20240808",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240808\\12.tif",
+        "height_cm": 77.9
+      },
+      {
+        "date": "20240826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240826\\12.tif",
+        "height_cm": 74.4
+      },
+      {
+        "date": "20240909",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240909\\12.tif",
+        "height_cm": 77.02
+      }
+    ],
+    "8": [
+      {
+        "date": "20240615",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240615\\8.tif",
+        "height_cm": 21.34
+      },
+      {
+        "date": "20240711",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240711\\8.tif",
+        "height_cm": 47.8
+      },
+      {
+        "date": "20240726",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240726\\8.tif",
+        "height_cm": 69.26
+      },
+      {
+        "date": "20240808",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240808\\8.tif",
+        "height_cm": 74.92
+      },
+      {
+        "date": "20240826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240826\\8.tif",
+        "height_cm": 74.36
+      },
+      {
+        "date": "20240909",
+        "rgb_path": "D:/Vebots/Iwamizawa/2024\\RGB\\20240909\\8.tif",
+        "height_cm": 74.44
+      }
+    ]
+  },
+  "2025": {
+    "2": [
+      {
+        "date": "20250722",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250722\\2.tif",
+        "height_cm": 69.38
+      },
+      {
+        "date": "20250729",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250729\\2.tif",
+        "height_cm": 78.84
+      },
+      {
+        "date": "20250812",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250812\\2.tif",
+        "height_cm": 85.56
+      },
+      {
+        "date": "20250820",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250820\\2.tif",
+        "height_cm": 91.92
+      },
+      {
+        "date": "20250826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250826\\2.tif",
+        "height_cm": 85.88
+      },
+      {
+        "date": "20250902",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250902\\2.tif",
+        "height_cm": 87.44
+      },
+      {
+        "date": "20250908",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250908\\2.tif",
+        "height_cm": 88.08
+      }
+    ],
+    "7": [
+      {
+        "date": "20250722",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250722\\7.tif",
+        "height_cm": 74.44
+      },
+      {
+        "date": "20250729",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250729\\7.tif",
+        "height_cm": 86.4
+      },
+      {
+        "date": "20250812",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250812\\7.tif",
+        "height_cm": 83.56
+      },
+      {
+        "date": "20250820",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250820\\7.tif",
+        "height_cm": 88.0
+      },
+      {
+        "date": "20250826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250826\\7.tif",
+        "height_cm": 87.22
+      },
+      {
+        "date": "20250902",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250902\\7.tif",
+        "height_cm": 85.08
+      },
+      {
+        "date": "20250908",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250908\\7.tif",
+        "height_cm": 86.2
+      }
+    ],
+    "5": [
+      {
+        "date": "20250722",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250722\\5.tif",
+        "height_cm": 80.18
+      },
+      {
+        "date": "20250729",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250729\\5.tif",
+        "height_cm": 87.78
+      },
+      {
+        "date": "20250812",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250812\\5.tif",
+        "height_cm": 95.7
+      },
+      {
+        "date": "20250820",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250820\\5.tif",
+        "height_cm": 95.56
+      },
+      {
+        "date": "20250826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250826\\5.tif",
+        "height_cm": 92.68
+      },
+      {
+        "date": "20250902",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250902\\5.tif",
+        "height_cm": 94.6
+      },
+      {
+        "date": "20250908",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250908\\5.tif",
+        "height_cm": 90.56
+      }
+    ],
+    "13": [
+      {
+        "date": "20250722",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250722\\13.tif",
+        "height_cm": 78.44
+      },
+      {
+        "date": "20250729",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250729\\13.tif",
+        "height_cm": 90.72
+      },
+      {
+        "date": "20250812",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250812\\13.tif",
+        "height_cm": 89.6
+      },
+      {
+        "date": "20250820",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250820\\13.tif",
+        "height_cm": 89.12
+      },
+      {
+        "date": "20250826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250826\\13.tif",
+        "height_cm": 90.3
+      },
+      {
+        "date": "20250902",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250902\\13.tif",
+        "height_cm": 88.5
+      },
+      {
+        "date": "20250908",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250908\\13.tif",
+        "height_cm": 88.22
+      }
+    ],
+    "12": [
+      {
+        "date": "20250722",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250722\\12.tif",
+        "height_cm": 77.52
+      },
+      {
+        "date": "20250729",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250729\\12.tif",
+        "height_cm": 84.04
+      },
+      {
+        "date": "20250812",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250812\\12.tif",
+        "height_cm": 90.36
+      },
+      {
+        "date": "20250820",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250820\\12.tif",
+        "height_cm": 89.82
+      },
+      {
+        "date": "20250826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250826\\12.tif",
+        "height_cm": 87.44
+      },
+      {
+        "date": "20250902",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250902\\12.tif",
+        "height_cm": 86.72
+      },
+      {
+        "date": "20250908",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250908\\12.tif",
+        "height_cm": 88.7
+      }
+    ],
+    "8": [
+      {
+        "date": "20250722",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250722\\8.tif",
+        "height_cm": 77.82
+      },
+      {
+        "date": "20250729",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250729\\8.tif",
+        "height_cm": 87.84
+      },
+      {
+        "date": "20250812",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250812\\8.tif",
+        "height_cm": 91.6
+      },
+      {
+        "date": "20250820",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250820\\8.tif",
+        "height_cm": 89.66
+      },
+      {
+        "date": "20250826",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250826\\8.tif",
+        "height_cm": 90.5
+      },
+      {
+        "date": "20250902",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250902\\8.tif",
+        "height_cm": 90.36
+      },
+      {
+        "date": "20250908",
+        "rgb_path": "D:/Vebots/Iwamizawa/2025\\RGB\\20250908\\8.tif",
+        "height_cm": 91.36
+      }
+    ]
+  }
+}
